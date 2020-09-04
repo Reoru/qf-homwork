@@ -1,0 +1,5 @@
+projectKey=FD-1833-PengXin-all
+serverUrl=http://212.64.60.44:9000
+dashboardUrl=http://212.64.60.44:9000/dashboard/index/FD-1833-PengXin-all
+ceTaskId=AXPoFBxytBN-rLO4KLtR
+ceTaskUrl=http://212.64.60.44:9000/api/ce/task?id=AXPoFBxytBN-rLO4KLtR
